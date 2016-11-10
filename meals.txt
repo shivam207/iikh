@@ -1,0 +1,4 @@
+Veg Plate:Masala Dosa, Daal, Roti, Chana Masala:2016-11-09
+Nonveg Plate:Egg Bhurji, Roti, Fish Curry:2016-11-09
+Special Plate:Masala Dosa, Biryani, Fish Curry, Ragulla:2016-11-09
+Special Veg Plate:Masala Dosa, Shahi Paneer, Rasgulla, Paneer Butter Masala:2016-11-09
